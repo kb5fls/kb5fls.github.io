@@ -29,7 +29,10 @@ Detailed projects and documentation for **fixed or semi-permanent** dipole anten
 ### Featured / Planned Topics
 
 - **Multiband Trap Dipole (20m / 15m / 10m)**  
-  Design using traps (toroids or PVC-based) to cover multiple HF bands on a single wire.
+  This design using traps (toroids or PVC-based) to cover multiple HF bands on a single wire.
+
+- **Project 14-275: The Compact 20M High-Efficiency Loaded Dipole (20m Design)** 
+  For Project 14-275: The Compact 20M High-Efficiency Loaded Dipole. I want a vey short description. A one liner.
 
 - **Center-Fed 20m Dipole (Reference Design)**  
   A simple, baseline 20m dipole used as a reference for comparing other designs.
