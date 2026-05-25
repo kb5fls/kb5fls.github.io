@@ -61,5 +61,6 @@ Tuning is a process of checking your SWR dip with an analyzer and making symmetr
 - Once your analyzer shows a dip at 14.275 MHz, use weather-sealing tape to protect the feed point from the elements.
 
 
-
+73s,
+KB5FLS
 

@@ -185,3 +185,6 @@ Recommended: **2 × FT240-31 cores (stacked)** for 20–10 m.
 - Add core volume or reduce power for digital modes with long duty-cycles.
 
 ---
+
+73s,
+KB5FLS

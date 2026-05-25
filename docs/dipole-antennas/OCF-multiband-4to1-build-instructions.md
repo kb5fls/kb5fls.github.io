@@ -132,3 +132,7 @@ Core: FT‑240‑31 or ‑43. Wind **8–10 turns** of a twisted bifilar pair; w
 - 15 m trap: **C ≈ 39 pF**, **f₀ = 21.350 MHz**
 
 Keep capacitor leads **short**. For high duty cycle, **stack two FT240‑61 or FT240‑52** cores.
+
+
+73s,
+KB5FLS
