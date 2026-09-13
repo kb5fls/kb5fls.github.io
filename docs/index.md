@@ -105,4 +105,4 @@ This site is organized by **antenna category**, with each category having its ow
 
 ## About Me
 
-![](images/qslcard1.png)
+![](qslcard1.png)
