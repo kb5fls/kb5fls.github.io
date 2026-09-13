@@ -104,4 +104,5 @@ This site is organized by **antenna category**, with each category having its ow
   `docs/loop-antennas/` → served at `/loop-antennas/`
 
 ## About Me
-![KB5FLS](images/qslcard1.png)
+
+![](images/qslcard1.png)
